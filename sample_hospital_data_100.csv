@@ -1,0 +1,101 @@
+doctor_name,doctor_specialization,starting_shift_time,end_shift_time,hospital_name,hospital_distance(km),num_of_available_beds
+Dr. Smith,Dermatologist,0:00,16:00,National Hospital,12.3,44
+Dr. Anderson,Radiologist,16:00,16:00,City Hospital,13.5,21
+Dr. Williams,Oncologist,8:00,0:00,Regional Hospital,2.1,8
+Dr. Lee,Dermatologist,0:00,8:00,State Hospital,7.7,47
+Dr. Jackson,Neurologist,8:00,0:00,County Hospital,6.5,39
+Dr. Williams,Neurologist,8:00,0:00,Regional Hospital,9.2,13
+Dr. Jackson,General Surgeon,16:00,16:00,National Hospital,6.8,23
+Dr. Brown,General Surgeon,0:00,0:00,County Hospital,14.5,19
+Dr. Anderson,Cardiologist,0:00,8:00,National Hospital,8,7
+Dr. White,Psychiatrist,16:00,0:00,National Hospital,3.4,39
+Dr. Lee,Cardiologist,8:00,0:00,City Hospital,13.6,18
+Dr. Smith,Psychiatrist,0:00,16:00,National Hospital,2.7,44
+Dr. Anderson,Dermatologist,16:00,0:00,County Hospital,12.9,10
+Dr. Anderson,Orthopedist,0:00,16:00,City Hospital,12,34
+Dr. Brown,Cardiologist,0:00,16:00,State Hospital,5.8,11
+Dr. Williams,Endocrinologist,0:00,8:00,National Hospital,3.4,44
+Dr. Thomas,Neurologist,8:00,8:00,City Hospital,10.1,14
+Dr. Smith,Dermatologist,0:00,16:00,Regional Hospital,11.4,36
+Dr. White,Cardiologist,16:00,16:00,Regional Hospital,8.7,47
+Dr. Jackson,Pediatrician,16:00,0:00,County Hospital,12,10
+Dr. Johnson,Oncologist,0:00,0:00,City Hospital,12.9,11
+Dr. Brown,Cardiologist,8:00,8:00,Regional Hospital,2.3,32
+Dr. Taylor,General Surgeon,16:00,0:00,County Hospital,4.1,30
+Dr. Lee,Neurologist,16:00,16:00,State Hospital,6.2,18
+Dr. Jackson,Pediatrician,8:00,0:00,Regional Hospital,11.8,8
+Dr. Taylor,General Surgeon,0:00,0:00,National Hospital,12.3,44
+Dr. Johnson,Orthopedist,8:00,8:00,Regional Hospital,4.2,48
+Dr. Brown,Dermatologist,8:00,8:00,City Hospital,7.7,37
+Dr. Jackson,Oncologist,0:00,16:00,County Hospital,7,15
+Dr. Anderson,Pediatrician,0:00,8:00,Regional Hospital,7.3,10
+Dr. Johnson,Oncologist,16:00,16:00,City Hospital,9.3,11
+Dr. Lee,Neurologist,0:00,16:00,City Hospital,8,31
+Dr. Brown,Pediatrician,16:00,0:00,Regional Hospital,11.3,43
+Dr. Thomas,Endocrinologist,0:00,16:00,National Hospital,8.8,48
+Dr. Brown,Oncologist,0:00,16:00,Regional Hospital,8.3,49
+Dr. Anderson,Oncologist,8:00,8:00,City Hospital,12.6,46
+Dr. Johnson,Dermatologist,0:00,16:00,Regional Hospital,5.8,15
+Dr. Taylor,Dermatologist,8:00,0:00,Regional Hospital,6.9,24
+Dr. Brown,Endocrinologist,0:00,0:00,National Hospital,4.3,38
+Dr. Thomas,Neurologist,0:00,16:00,National Hospital,9.5,20
+Dr. Brown,Endocrinologist,16:00,16:00,County Hospital,10.6,31
+Dr. Thomas,Neurologist,0:00,0:00,State Hospital,7.7,12
+Dr. Thomas,Endocrinologist,16:00,16:00,Regional Hospital,11.3,42
+Dr. Johnson,Pediatrician,8:00,0:00,State Hospital,8.3,7
+Dr. Johnson,Orthopedist,8:00,8:00,State Hospital,13.4,38
+Dr. Brown,Psychiatrist,8:00,0:00,State Hospital,14,23
+Dr. Taylor,Neurologist,16:00,8:00,National Hospital,5.5,15
+Dr. Taylor,General Surgeon,8:00,16:00,City Hospital,4.2,10
+Dr. Jackson,Neurologist,8:00,8:00,Regional Hospital,9.4,5
+Dr. Jackson,Endocrinologist,8:00,16:00,National Hospital,6.6,47
+Dr. Thomas,Dermatologist,16:00,16:00,National Hospital,5.6,32
+Dr. Anderson,Endocrinologist,0:00,16:00,National Hospital,13.6,8
+Dr. Brown,Radiologist,0:00,0:00,Regional Hospital,6.3,32
+Dr. Taylor,Oncologist,0:00,16:00,City Hospital,4.2,12
+Dr. Smith,Psychiatrist,8:00,16:00,City Hospital,2.1,9
+Dr. Lee,Endocrinologist,16:00,16:00,City Hospital,7,16
+Dr. Thomas,General Surgeon,8:00,0:00,State Hospital,8.1,7
+Dr. Brown,Oncologist,0:00,0:00,County Hospital,10.4,8
+Dr. Lee,Dermatologist,0:00,0:00,County Hospital,12.8,30
+Dr. Johnson,Cardiologist,8:00,16:00,County Hospital,2.8,24
+Dr. Lee,Pediatrician,8:00,16:00,National Hospital,3.6,46
+Dr. Lee,Dermatologist,0:00,0:00,Regional Hospital,14.7,46
+Dr. Smith,Dermatologist,0:00,16:00,Regional Hospital,7.9,38
+Dr. Lee,Dermatologist,8:00,0:00,State Hospital,1.9,16
+Dr. Jackson,Orthopedist,16:00,0:00,Regional Hospital,14.5,36
+Dr. Lee,Radiologist,16:00,16:00,National Hospital,10.9,8
+Dr. Thomas,General Surgeon,16:00,8:00,National Hospital,14.6,32
+Dr. Thomas,Endocrinologist,16:00,16:00,County Hospital,9.8,16
+Dr. Jackson,Endocrinologist,16:00,8:00,County Hospital,12.6,6
+Dr. Brown,Pediatrician,16:00,16:00,City Hospital,6,17
+Dr. Taylor,Oncologist,8:00,8:00,City Hospital,10.1,25
+Dr. White,Psychiatrist,8:00,0:00,County Hospital,13.5,12
+Dr. Brown,Neurologist,16:00,16:00,City Hospital,11.7,16
+Dr. Lee,Neurologist,16:00,0:00,City Hospital,9.5,49
+Dr. Johnson,Psychiatrist,16:00,0:00,County Hospital,6.6,45
+Dr. Taylor,Cardiologist,8:00,16:00,County Hospital,6.5,47
+Dr. Taylor,Endocrinologist,8:00,0:00,National Hospital,9.1,43
+Dr. Taylor,Orthopedist,0:00,16:00,City Hospital,9.4,46
+Dr. Jackson,Psychiatrist,8:00,8:00,County Hospital,4.3,33
+Dr. Lee,Psychiatrist,16:00,16:00,State Hospital,4.8,32
+Dr. Jackson,Psychiatrist,0:00,8:00,County Hospital,3.5,28
+Dr. White,Oncologist,0:00,16:00,County Hospital,8.7,37
+Dr. Anderson,Radiologist,16:00,16:00,National Hospital,12.2,18
+Dr. Brown,Cardiologist,16:00,0:00,State Hospital,13.8,42
+Dr. Johnson,General Surgeon,0:00,8:00,Regional Hospital,10.8,47
+Dr. Williams,Endocrinologist,8:00,16:00,City Hospital,14.3,20
+Dr. Brown,Orthopedist,8:00,16:00,Regional Hospital,13.6,35
+Dr. Williams,Neurologist,0:00,16:00,National Hospital,3.2,45
+Dr. Brown,Pediatrician,8:00,8:00,National Hospital,2.9,14
+Dr. Taylor,Pediatrician,16:00,16:00,Regional Hospital,14.4,35
+Dr. Thomas,Orthopedist,8:00,0:00,National Hospital,10.1,22
+Dr. Johnson,Orthopedist,16:00,0:00,National Hospital,3.7,13
+Dr. Johnson,Orthopedist,0:00,8:00,County Hospital,5.5,14
+Dr. Anderson,Dermatologist,8:00,8:00,Regional Hospital,13.5,29
+Dr. Anderson,General Surgeon,0:00,8:00,Regional Hospital,7.8,39
+Dr. Williams,Cardiologist,8:00,16:00,City Hospital,3.2,44
+Dr. Brown,Endocrinologist,8:00,16:00,National Hospital,14,49
+Dr. Brown,Pediatrician,16:00,8:00,City Hospital,7.8,28
+Dr. Anderson,Pediatrician,8:00,16:00,Regional Hospital,4.3,18
+Dr. Jackson,Pediatrician,16:00,16:00,Regional Hospital,13,41
